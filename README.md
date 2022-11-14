@@ -4,7 +4,7 @@ Uma história para começar
 
 Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor às suas necessidades. Atualmente, parte da operação ainda se apoia em planilhas e arquivos antigos, mas espera-se que esses dados sejam transferidos para o novo sistema assim que ele estiver funcional. Neste momento, é necessário analisar com cuidado as necessidades desse cliente e sugerir uma estrutura de banco de dados adequada por meio de um Diagrama Entidade-Relacionamento.
 
-- Atividade extraida do perfil do [Maycon Subrim](https://github.com/MayconSubrim). Utilizei da atividade dele para agilizar minhas atividades, mas todo o conteudo dessa atividade foi explicado passo a passo para mim.
+- Atividade extraida do perfil do [Maycon Subrim](https://github.com/MayconSubrim). Utilizei da atividade dele para agilizar minhas atividades, mas ele me explicou todo o conteudo passo a passo.
 
 # Solução:
 
