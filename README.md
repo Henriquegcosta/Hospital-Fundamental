@@ -220,7 +220,7 @@ Os dados de tipo de quarto, convênio e especialidade são essenciais para a ope
 ![Especialista](https://user-images.githubusercontent.com/110691979/200942913-fa60f080-380c-43c5-a523-28cdfbedf69e.png)
 
 
-# Registrandon Pacientes:
+# Registrando Pacientes:
 
 
 ![pacientes](https://user-images.githubusercontent.com/110691979/200943235-0aeddc1e-0feb-4639-9e6e-7ab3c47d55a8.png)
